@@ -1,0 +1,11 @@
+{
+    "require": {
+        "illuminate/database": "^8.12",
+        "google/apiclient": "2.0",
+        "illuminate/filesystem": "^8.12",
+        "doctrine/dbal": "^2.12",
+        "vlucas/phpdotenv": "^5.2",
+        "illuminate/console": "^8.12",
+        "illuminate/events": "^8.12"
+    }
+}
